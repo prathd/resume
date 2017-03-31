@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.5.22)  30 MAR 2017 18:48
+This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.5.22)  30 MAR 2017 18:54
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -351,7 +351,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.132 seconds)
+luaotfload | main : initialization completed in 0.118 seconds)
 Lua module: fontspec 2016/02/01 2.5a Advanced font selection for LuaLaTeX.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
@@ -1052,23 +1052,22 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 247.
 )
 
 Here is how much of LuaTeX's memory you used:
- 21548 strings out of 495119
+ 21544 strings out of 495119
  100000,460012 words of node,token memory allocated
- 1089 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 83 glue, 41 attribute, 47 glue_spec, 40 attribute_l
+ 1064 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 80 glue, 40 attribute, 47 glue_spec, 39 attribute_l
 ist, 1 write nodes
-   avail lists: 2:1761,3:222,4:343,5:228,6:3532,7:1213,8:71,9:259,10:16,11:335
- 24271 multiletter control sequences out of 65536+600000
- 75 fonts using 4527751 bytes
+   avail lists: 2:1742,3:217,4:333,5:216,6:3163,7:1139,8:71,9:253,10:16,11:305
+ 24270 multiletter control sequences out of 65536+600000
+ 74 fonts using 4483111 bytes
  55i,11n,107p,380b,510s stack positions out of 5000i,500n,10000p,200000b,100000s
-<./fonts/lato/Lato-Reg.ttf><./fonts/lato/Lato-LigIta.ttf><./fonts/lato/Lato-Bol.
-ttf><./fonts/raleway/Raleway-Medium.otf></usr/local/texlive/2016/texmf-dist/font
-s/opentype/public/fontawesome/FontAwesome.otf><./fonts/lato/Lato-Lig.ttf><./font
-s/lato/Lato-Hai.ttf>
-Output written on cv.pdf (1 page, 61480 bytes).
+<./fonts/lato/Lato-Reg.ttf><./fonts/lato/Lato-Bol.ttf><./fonts/raleway/Raleway-M
+edium.otf></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/fontawesome/
+FontAwesome.otf><./fonts/lato/Lato-Lig.ttf><./fonts/lato/Lato-Hai.ttf>
+Output written on cv.pdf (1 page, 56320 bytes).
 
-PDF statistics: 116 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
+PDF statistics: 109 PDF objects out of 1000 (max. 8388607)
+ 87 compressed objects within 1 object stream
  14 named destinations out of 1000 (max. 131072)
  97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
