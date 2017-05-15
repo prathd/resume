@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.5.22)  10 MAY 2017 17:02
+This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.5.22)  15 MAY 2017 16:26
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -351,7 +351,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.147 seconds)
+luaotfload | main : initialization completed in 0.389 seconds)
 Lua module: fontspec 2016/02/01 2.5a Advanced font selection for LuaLaTeX.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
@@ -1057,14 +1057,14 @@ Here is how much of LuaTeX's memory you used:
  1040 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 76 glue, 41 attribute, 47 glue_spec, 40 attribute_l
 ist, 1 write nodes
-   avail lists: 2:1815,3:218,4:339,5:250,6:3255,7:1162,8:72,9:265,10:15,11:317
+   avail lists: 2:1815,3:218,4:339,5:244,6:3247,7:1162,8:72,9:265,10:15,11:317
  24272 multiletter control sequences out of 65536+600000
  75 fonts using 4558279 bytes
  55i,11n,107p,380b,510s stack positions out of 5000i,500n,10000p,200000b,100000s
 <./fonts/lato/Lato-Reg.ttf><./fonts/lato/Lato-Bol.ttf><./fonts/raleway/Raleway-M
 edium.otf></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/fontawesome/
 FontAwesome.otf><./fonts/lato/Lato-Lig.ttf><./fonts/lato/Lato-Hai.ttf>
-Output written on cv.pdf (1 page, 55618 bytes).
+Output written on cv.pdf (1 page, 55611 bytes).
 
 PDF statistics: 111 PDF objects out of 1000 (max. 8388607)
  89 compressed objects within 1 object stream
