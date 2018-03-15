@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.5.22)  24 JUL 2017 19:59
+This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.5.22)  15 MAR 2018 00:51
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -322,12 +322,11 @@ Package: luaotfload 2016/04/21 v2.7 OpenType layout system
 Lua module: luaotfload-main 2016/04/21 2.70002 OpenType layout system.
 Lua module: lualibs 2016-04-06 2.4 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2016-04-06 2.4 ConTeXt Lua libraries -- extended co
-llection.(using write cache: /Users/Prathmesh/Library/texlive/2016/texmf-var/lua
-tex-cache/generic)(using read cache: /usr/local/texlive/2016/texmf-var/luatex-ca
-che/generic /Users/Prathmesh/Library/texlive/2016/texmf-var/luatex-cache/generic
-)
-luaotfload | conf : Root cache directory is /Users/Prathmesh/Library/texlive/201
-6/texmf-var/luatex-cache/generic/names.
+llection.(using write cache: /usr/local/texlive/2016/texmf-var/luatex-cache/gene
+ric)(using read cache: /usr/local/texlive/2016/texmf-var/luatex-cache/generic /U
+sers/Prathmesh/Library/texlive/2016/texmf-var/luatex-cache/generic)
+luaotfload | conf : Root cache directory is /usr/local/texlive/2016/texmf-var/lu
+atex-cache/generic/names.
 luaotfload | init : Loading fontloader “fontloader-2016-05-04.lua” from kpse
 -resolved path “/usr/local/texlive/2016/texmf-dist/tex/luatex/luaotfload/fontl
 oader-2016-05-04.lua”.
@@ -339,8 +338,8 @@ Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
 Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
 Inserting `luaotfload.define_font' at position 1 in `define_font'.
 Lua-only attribute luaotfload_color_attribute = 4
-luaotfload | conf : Root cache directory is /Users/Prathmesh/Library/texlive/201
-6/texmf-var/luatex-cache/generic/names.
+luaotfload | conf : Root cache directory is /usr/local/texlive/2016/texmf-var/lu
+atex-cache/generic/names.
 Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
 font'.
 Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
@@ -351,7 +350,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.214 seconds)
+luaotfload | main : initialization completed in 0.159 seconds)
 Lua module: fontspec 2016/02/01 2.5a Advanced font selection for LuaLaTeX.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
@@ -375,11 +374,11 @@ LaTeX Font Info:    Try loading font information for EU2+lmr on input line 105.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/euenc/eu2lmr.fd
 File: eu2lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-luaotfload | db : Font names database loaded from /Users/Prathmesh/Library/texli
-ve/2016/texmf-var/luatex-cache/generic/names/luaotfload-names.luc(compiling luc:
- /usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regu
-lar.luc)(load luc: /Users/Prathmesh/Library/texlive/2016/texmf-var/luatex-cache/
-generic/fonts/otl/lmroman10-regular.luc))
+luaotfload | db : Font names database not found, generating new one.
+luaotfload | db : This can take several minutes; please be patient.(compiling lu
+c: /usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-re
+gular.luc)(load luc: /Users/Prathmesh/Library/texlive/2016/texmf-var/luatex-cach
+e/generic/fonts/otl/lmroman10-regular.luc))
 (/usr/local/texlive/2016/texmf-dist/tex/xelatex/xunicode/xunicode.sty
 File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many o
 ther characters in Unicode lower plane
@@ -1053,15 +1052,9 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 282.
 (./cv.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 282.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 282.
+Package rerunfilecheck Info: File `cv.out' has not changed.
+(rerunfilecheck)             Checksum: 46E51FD205A7B715FA43E80E5CA2EEBE;668.
 
-
-Package rerunfilecheck Warning: File `cv.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `cv.out':
-(rerunfilecheck)             Before: FBEFE2365B708A9405B65C25622F51DE;716
-(rerunfilecheck)             After:  46E51FD205A7B715FA43E80E5CA2EEBE;668.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.5pt have occurred.
@@ -1073,24 +1066,22 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 282.
 )
 
 Here is how much of LuaTeX's memory you used:
- 21560 strings out of 495119
+ 21558 strings out of 495119
  100000,460012 words of node,token memory allocated
  1277 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 99 glue, 60 attribute, 47 glue_spec, 59 attribute_l
 ist, 1 write nodes
-   avail lists: 2:1811,3:214,4:339,5:278,6:3291,7:1162,8:68,9:266,10:15,11:329
- 24274 multiletter control sequences out of 65536+600000
+   avail lists: 2:1811,3:214,4:339,5:277,6:3291,7:1161,8:68,9:266,10:15,11:329
+ 24273 multiletter control sequences out of 65536+600000
  75 fonts using 4557655 bytes
  55i,11n,107p,380b,506s stack positions out of 5000i,500n,10000p,200000b,100000s
-
-warning  (pdf backend): unreferenced destination with name 'section.6'
 <./fonts/lato/Lato-Reg.ttf><./fonts/lato/Lato-Bol.ttf><./fonts/raleway/Raleway-M
 edium.otf></usr/local/texlive/2016/texmf-dist/fonts/opentype/public/fontawesome/
 FontAwesome.otf><./fonts/lato/Lato-Lig.ttf><./fonts/lato/Lato-Hai.ttf>
-Output written on cv.pdf (1 page, 56525 bytes).
+Output written on cv.pdf (1 page, 56456 bytes).
 
-PDF statistics: 111 PDF objects out of 1000 (max. 8388607)
- 89 compressed objects within 1 object stream
- 15 named destinations out of 1000 (max. 131072)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+PDF statistics: 107 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 131072)
+ 97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
